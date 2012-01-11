@@ -1,0 +1,7 @@
+1 Сделать структуру папок с англоязычными файлами
+2 Уточнить 
+ditto\lang\ukranian.inc.php
+	$_lang['placeholders'] = "Плейсхолдери"; // заповнювачі?
+	$_lang['total'] = "Всього";	// де?
+	$_lang['tinymce_theme_advanced'] = "Просунута"; // продвинута?
+	
