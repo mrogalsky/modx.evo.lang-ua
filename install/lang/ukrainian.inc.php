@@ -2,13 +2,12 @@
 /**
  * MODx language File
  *
- * @author davaeron
+ * @author max.rogalsky
  * @package MODx
  * @version 1.0
  * 
- * Filename:       /install/lang/english/english.inc.php
- * Language:       English
- * Encoding:       iso-8859-1
+ * Filename:       /install/lang/ukranian/ukranian.inc.php
+ * Language:       Ukranian
  */
 $_lang["agree_to_terms"] = 'Agree to the License Terms and Install';
 $_lang["alert_database_test_connection"] = 'You need to create your database or test the selection of your database!';
