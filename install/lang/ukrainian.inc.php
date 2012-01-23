@@ -9,16 +9,16 @@
  * Filename:       /install/lang/ukranian/ukranian.inc.php
  * Language:       Ukranian
  */
-$_lang["agree_to_terms"] = 'Agree to the License Terms and Install';
-$_lang["alert_database_test_connection"] = 'You need to create your database or test the selection of your database!';
-$_lang["alert_database_test_connection_failed"] = 'The test of your database selection has failed!';
-$_lang["alert_enter_adminconfirm"] = 'The administrator password and the confirmation don\'t match!';
-$_lang["alert_enter_adminlogin"] = 'You need to enter a username for the system admin account!';
-$_lang["alert_enter_adminpassword"] = 'You need to enter a password for the system admin account!';
-$_lang["alert_enter_database_name"] = 'You need to enter a value for database name!';
-$_lang["alert_enter_host"] = 'You need to enter a value for database host!';
-$_lang["alert_enter_login"] = 'You need to enter your database login name!';
-$_lang["alert_server_test_connection"] = 'You need to test your server connection!';
+$_lang["agree_to_terms"] = 'Погодитися з умовами ліцензії і приступити до установки';
+$_lang["alert_database_test_connection"] = 'Ви повинні створити базу даних або вибрати базу даних для перевірки!';
+$_lang["alert_database_test_connection_failed"] = 'Невдала перевірка обраної бази даних!';
+$_lang["alert_enter_adminconfirm"] = 'Пароль адміністратора і підтвердження пароля не співпадають!';
+$_lang["alert_enter_adminlogin"] = 'Введіть ім\'я адміністратора!';
+$_lang["alert_enter_adminpassword"] = 'Введіть пароль адміністратора!';
+$_lang["alert_enter_database_name"] = 'Введіть ім\'я бази даних';
+$_lang["alert_enter_host"] = 'Введіть хост бази даних!';
+$_lang["alert_enter_login"] = 'Введіть ім\'я користувача бази даних!';
+$_lang["alert_server_test_connection"] = 'Перевірте з\'єднання з сервером бази даних!';
 $_lang["alert_server_test_connection_failed"] = 'The test of your server connection has failed!';
 $_lang["alert_table_prefixes"] = 'Table prefixes must start with a letter!';
 $_lang["all"] = 'All';
